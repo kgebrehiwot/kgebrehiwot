@@ -10,10 +10,10 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kalkidan--a--gebrehiwot-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kalkidan-a-gebrehiwot)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-2D4A3E?style=for-the-badge&logo=github&logoColor=D4A843)](https://kgebrehiwot.github.io/Portfolio)
-[![YouTube](https://img.shields.io/badge/YouTube-@datasciencegirly-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@datasciencegirly)
-[![X](https://img.shields.io/badge/X-@Techwithkiki-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Techwithkiki)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kalkidan-a-gebrehiwot)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2D4A3E?style=for-the-badge&logo=github&logoColor=D4A843)](https://kgebrehiwot.github.io/Portfolio)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@datasciencegirly)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Techwithkiki)
 
 </div>
 
@@ -24,14 +24,11 @@
 ```python
 kalkidan = {
     "role"        : "Operations Manager @ Amazon → Data Scientist",
-    "location"    : "California, USA 🌴",
-    "languages"   : ["Python", "SQL", "R", "Amharic", "English", "Italian"],
-    "daily_impact": "2,000,000+ units processed per day",
-    "wins"        : ["70% cost reduction via process analytics",
-                     "10%+ defect rate reduction → #1 SOX ranking",
-                     "$10K Davis Peace Project Award 🏆"],
-    "building"    : ["ML models", "Dashboards", "Children's TV show 🎬", "Boba cafés 🧋"],
-    "ask_me_about": ["Data Science", "Amazon Ops", "Career pivots", "Ethiopian diaspora finance"]
+    "location"    : "California 🌴",
+    "languages"   : ["Python", "SQL", "R", "SQL"],
+    "wins"        : ["Improve cost by 70% through Engineering process flow", "Achieve defect rate decrease by 10% → ranked #1 in SOX compliance" among 110 sites, "$10K Davis Peace Project Award 🏆"],
+    "building"    : ["ML models", "Visual Dashboards"],
+    "ask_me_about": ["Data Science", "Operations", "Career pivots"]
 }
 ```
 
