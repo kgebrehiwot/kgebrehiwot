@@ -22,7 +22,7 @@
 ## 👩🏾‍💻 About Me
 
 ```python
-kalkidan = {
+Kalkidan = {
     "role"        : "Operations Manager @ Amazon → Data Scientist",
     "location"    : "California 🌴",
     "languages"   : ["Python", "SQL", "R", "SQL"],
@@ -86,15 +86,15 @@ kalkidan = {
 
 ---
 
-## 🌍 Beyond the Code
+## 🌍 Beyond Data Science
 
 <div align="center">
 
 | 🏭 Amazon | 🎬 Creator | 🧋 Entrepreneur | 🌱 Impact |
 |-----------|-----------|----------------|-----------|
-| Operations Manager | @datasciencegirly on YouTube | 2 Boba Cafés in Addis Ababa | Davis Peace Project 2021 |
-| 70+ teams · 2M units/day | Finance literacy in Amharic | Directing *Meki in Merkato* | Future of Energy · Sudan |
-| #1 SOX compliance | Tech & career content | Building African businesses | UWC Adriatic · Italy 🇮🇹 |
+| Operations Manager | @datasciencegirly on YouTube | 2 Boba Cafés in Ethiopia | Davis Peace Project 2021 Recipient |
+| Led 70+ teams · 2M units/day | Amharic Finance topics | Directing *Meki in Merkato* | Future of Energy project · Sudan |
+| Managed site's #1 SOX compliance | Tech & career content | Building African businesses | UWC Adriatic Alumna · Italy 🇮🇹 |
 
 </div>
 
@@ -104,6 +104,6 @@ kalkidan = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2D4A3E&height=120&section=footer&fontColor=D4A843" width="100%"/>
 
-*"Knowledge shouldn't be gated by language, geography, or who your parents knew."*
+*"Education is the most powerful weapon which you can use to change the world. ~ Nelson Mandela"*
 
 </div>
