@@ -93,11 +93,11 @@ Kalkidan = {
 
 <div align="center">
 
-| 🏭 Amazon | 🎬 Creator | 🧋 Entrepreneur | 🌱 Impact |
+| 🏭 Amazon | 🎬 Creator  | 🌱 Impact |
 |-----------|-----------|----------------|-----------|
-| Operations Manager | @datasciencegirly on YouTube | 2 Boba Cafés in Ethiopia | Davis Peace Project 2021 Recipient |
-| Led 70+ teams · 2M units/day | Amharic Finance topics | Directing *Meki in Merkato* | Future of Energy project · Sudan |
-| Managed site's #1 SOX compliance | Tech & career content | Building African businesses | UWC Adriatic Alumna · Italy 🇮🇹 |
+| Operations Manager | @datasciencegirly on YouTube | Davis Peace Project 2021 Recipient |
+| Led 70+ teams · 2M units/day | Tech content | Future of Energy project · Sudan |
+| Managed site's #1 SOX compliance | Tech & career content| UWC Adriatic Alumna · Italy 🇮🇹 |
 
 </div>
 
