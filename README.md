@@ -94,7 +94,7 @@ Kalkidan = {
 <div align="center">
 
 | 🏭 Amazon | 🎬 Creator  | 🌱 Impact |
-|-----------|-----------|----------------|-----------|
+|-----------|-----------|-----------|
 | Operations Manager | @datasciencegirly on YouTube | Davis Peace Project 2021 Recipient |
 | Led 70+ teams · 2M units/day | Tech content | Future of Energy project · Sudan |
 | Managed site's #1 SOX compliance | Tech & career content| UWC Adriatic Alumna · Italy 🇮🇹 |
