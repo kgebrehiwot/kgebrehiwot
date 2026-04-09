@@ -1,7 +1,11 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2D4A3E&height=200&section=header&text=Kalkidan%20Gebrehiwot&fontSize=42&fontColor=D4A843&fontAlignY=38&desc=Ex-Amazon%20QOM%20%7C%20MBA-ITM%20%7C%20Supply%20Chain%20%26%20AI%20%7C%20Turning%20ops%20data%20into%20decisions.&descAlignY=58&descColor=EDE6DA&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2D4A3E&height=160&section=header&text=Kalkidan%20Gebrehiwot&fontSize=42&fontColor=D4A843&fontAlignY=55&animation=fadeIn" width="100%"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=3000&pause=1000&color=2D4A3E&center=true&vCenter=true&width=700&lines=Supply+Chain+%26+AI+Integration+%7C+Ex-Amazon+QOM;MBA-ITM+%7C+SQL+%C2%B7+Python+%C2%B7+Power+BI;Turning+ops+data+into+decisions." alt="Typing SVG" />
+</p>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
