@@ -26,12 +26,12 @@
 
 ```python
 Kalkidan = {
-    "role"        : "Operations Manager @ Amazon → Data Scientist",
+    "role"        : "Supply Chain & AI Integration | Ex-Amazon QOM → Marketing & Business Analytics",
     "location"    : "California 🌴",
-    "languages"   : ["Python", "SQL", "R", "SQL"],
-    "wins"        : ["Improve cost by 70% through Engineering process flow", "Achieve defect rate decrease by 10% → ranked #1 in SOX compliance" among 110 sites, "$10K Davis Peace Project Award 🏆"],
-    "building"    : ["ML models", "Visual Dashboards"],
-    "ask_me_about": ["Data Science", "Operations", "Career pivots"]
+    "languages"   : ["Python", "SQL", "Power BI", "R", "Tableau"],
+    "wins"        : ["#1 NAFC quality ranking across 110 Amazon sites", "$25K cost reduction via root cause analysis", "$10K Davis Peace Project Award 🏆"],
+    "building"    : ["Consumer behavior dashboards", "Demand forecasting models", "ML-powered business insights"],
+    "ask_me_about": ["Supply Chain Analytics", "Marketing Data Strategy", "Career pivots into business analytics"]
 }
 ```
 
