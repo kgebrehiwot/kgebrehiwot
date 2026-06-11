@@ -14,7 +14,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kalkidan-a-gebrehiwot)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2D4A3E?style=for-the-badge&logo=github&logoColor=D4A843)](https://kgebrehiwot.github.io/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2D4A3E?style=for-the-badge&logo=github&logoColor=D4A843)]([https://kgebrehiwot.github.io/Portfolio](https://github.com/kgebrehiwot))
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@datasciencegirly)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Techwithkiki)
 
