@@ -26,12 +26,13 @@
 
 ```python
 Kalkidan = {
-    "role"        : "Supply Chain & AI Integration | Ex-Amazon QOM → Marketing & Business Analytics",
-    "location"    : "California 🌴",
-    "languages"   : ["Python", "SQL", "Power BI", "R", "Tableau"],
-    "wins"        : ["#1 NAFC quality ranking across 110 Amazon sites", "$25K cost reduction via root cause analysis", "$10K Davis Peace Project Award 🏆"],
-    "building"    : ["Consumer behavior dashboards", "Demand forecasting models", "ML-powered business insights"],
-    "ask_me_about": ["Supply Chain Analytics", "Marketing Data Strategy", "Career pivots into business analytics"]
+    "role"        : "Analytics and Data Engineer | Ex-Amazon QOM",
+    "location"    : "California",
+    "languages"   : ["Python", "SQL", "R", "HTML/ CSS"],
+    "Database"    : ["Oracle", "ETL/ ELT", "S3", "Redshift", "DynamoDB", "SQL Server"],
+    "Software"    : ["Power BI", "Tableau", "Excel", "Quicksight", "Google Analytics", "Jupiter Notebook"],
+    "Frameworks/Libraries" : ["Pandas", "NumPy", "SciPy", "Scikit-learn", "PySpark", "Django", "Matplotlib", "Plotly"],
+    "Specialties": ["Finance" , "Data Science", "People and Project Management", "Communication and Leadership", "Public Speaking", "Logistics"],
 }
 ```
 
@@ -62,7 +63,6 @@ Kalkidan = {
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -84,20 +84,6 @@ Kalkidan = {
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kgebrehiwot&hide_border=true&background=F7F3EE&ring=2D4A3E&fire=B85C38&currStreakLabel=2D4A3E&sideLabels=2D4A3E&dates=7A7268&sideNums=B85C38&currStreakNum=B85C38)
-
-</div>
-
----
-
-## 🌍 Beyond Data Science
-
-<div align="center">
-
-| 🏭 Amazon | 🎬 Creator  | 🌱 Impact |
-|-----------|-----------|-----------|
-| Operations Manager | @datasciencegirly on YouTube | Davis Peace Project 2021 Recipient |
-| Led 70+ teams · 2M units/day | Tech content | Future of Energy project · Sudan |
-| Managed site's #1 SOX compliance | Tech & career content| UWC Adriatic Alumna · Italy 🇮🇹 |
 
 </div>
 
